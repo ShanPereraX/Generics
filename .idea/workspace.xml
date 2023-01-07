@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="364f1db3-7fd8-4a3d-bf35-5d47870bf6a6" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommonClass.java" afterDir="false" />
+    <list default="true" id="364f1db3-7fd8-4a3d-bf35-5d47870bf6a6" name="Changes" comment="with generics">
+      <change afterPath="$PROJECT_DIR$/src/NumericalClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673061337918</updated>
-      <workItem from="1673061339281" duration="2731000" />
+      <workItem from="1673061339281" duration="4711000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1673062239946</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673062239946</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="with generics">
+      <created>1673064192960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673064192960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="with generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="with generics" />
   </component>
 </project>
